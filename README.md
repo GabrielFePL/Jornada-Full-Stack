@@ -20,3 +20,5 @@ Integramos o Front-end com o Back-end e criamos um player de áudio funcional, p
 
 🔹 Aula 4 - Deploy e Publicação
 Finalizamos o projeto realizando o deploy do Front-end e Back-end, tornando a réplica do Spotify acessível na web.
+
+Curso produzido e oferecido por Hashtag Programação, durante live stream no YouTube.
