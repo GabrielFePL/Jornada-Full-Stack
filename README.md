@@ -6,7 +6,9 @@ Front-end: React, HTML, CSS, JavaScript
 Back-end: Node.js, Express
 Banco de Dados: MongoDB
 Deploy: Hospedagem do Front-end e Back-end
+
 📌 Estrutura do Curso
+
 🔹 Aula 1 - Desenvolvimento da Interface
 Criamos a interface do aplicativo utilizando React, estilizamos com CSS e adicionamos interatividade com JavaScript.
 
