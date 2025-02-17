@@ -1,0 +1,27 @@
+{
+  "name": "jornada-full-stack",
+  "version": "1.0.0",
+  "description": "Jornada Full Stack",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm start --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFePL/Jornada-Full-Stack.git"
+  },
+  "keywords": [
+    "React",
+    "Express",
+    "Node",
+    "Mongo",
+    "DB"
+  ],
+  "author": "GabrielFePL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielFePL/Jornada-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/GabrielFePL/Jornada-Full-Stack#readme"
+}
